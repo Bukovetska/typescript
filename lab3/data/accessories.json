@@ -1,0 +1,37 @@
+{
+  "category": "Амуніція",
+  "items": [
+    {
+      "id": 1,
+      "name": "Повідець-рулетка Flexi",
+      "shortname": "flexi-leash",
+      "description": "Зручний повідець довжиною 5 метрів для собак вагою до 15 кг.",
+      "price": "800 грн",
+      "image": "image/flexi.jpg"    
+    },
+    {
+      "id": 2,
+      "name": "Нашийник нейлоновий з LED",
+      "shortname": "led-collar",
+      "description": "Світлодіодний нашийник для безпечних прогулянок у темну пору доби.",
+      "price": "300 грн",
+      "image": "image/led.webp"    
+    },
+    {
+      "id": 3,
+      "name": "Анатомічна шлея Julius-K9",
+      "shortname": "julius-harness",
+      "description": "Професійна шлея, що не сковує рухів, з ручкою для контролю.",
+      "price": "1 400 грн",
+      "image": "image/julies.webp"    
+    },
+    {
+      "id": 4,
+      "name": "Шкіряний повідець-перестібка",
+      "shortname": "leather-leash",
+      "description": "Надійний шкіряний повідець з можливістю регулювання довжини.",
+      "price": "650 грн",
+      "image": "image/povidezh.jpg"    
+    }
+  ]
+}

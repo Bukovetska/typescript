@@ -1,0 +1,45 @@
+{
+  "category": "Корм для собак",
+  "items": [
+    {
+      "id": 1,
+      "name": "Royal Canin Mini Adult",
+      "shortname": "rc-mini-adult",
+      "description": "Сухий повнораціонний корм для дорослих собак дрібних порід.",
+      "price": "650 грн",
+      "image": "image/royal.jpeg"    
+    },
+    {
+      "id": 2,
+      "name": "Acana Grass-Fed Lamb",
+      "shortname": "acana-lamb",
+      "description": "Гіпоалергенний корм з м'ясом ягняти для чутливого травлення.",
+      "price": "1 200 грн",
+      "image": "image/acana.jpg"    
+    },
+    {
+      "id": 3,
+      "name": "Brit Premium by Nature",
+      "shortname": "brit-adult-large",
+      "description": "Корм преміум класу з куркою для дорослих собак великих порід.",
+      "price": "1 850 грн",
+      "image": "image/brit.png"    
+    },
+    {
+      "id": 4,
+      "name": "Optimeal Hypoallergenic",
+      "shortname": "optimeal-hypo",
+      "description": "Беззерновий корм з лососем для собак схильних до алергії.",
+      "price": "950 грн",
+      "image": "image/opti.webp"    
+    },
+    {
+      "id": 5,
+      "name": "Вологий корм Savory",
+      "shortname": "savory-wet",
+      "description": "Консерва з індичкою та ягням. Дуже смачне доповнення до раціону.",
+      "price": "95 грн",
+      "image": "image/savory.jpg"    
+    }
+  ]
+}

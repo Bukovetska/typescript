@@ -1,0 +1,37 @@
+{
+  "category": "Догляд та гігієна",
+  "items": [
+    {
+      "id": 1,
+      "name": "Шампунь Trixie",
+      "shortname": "trixie-shampoo",
+      "description": "Ніжний шампунь з екстрактом ромашки для цуценят та собак.",
+      "price": "140 грн",
+      "image": "image/shampoo.jpg"    
+    },
+    {
+      "id": 2,
+      "name": "Щітка Фурмінатор",
+      "shortname": "furminator",
+      "description": "Інструмент для ефективного видалення підшерстя під час линьки.",
+      "price": "950 грн",
+      "image": "image/fur.webp"    
+    },
+    {
+      "id": 3,
+      "name": "Краплі Advantix",
+      "shortname": "advantix-drops",
+      "description": "Надійний захист від бліх, кліщів та комарів на 4 тижні.",
+      "price": "380 грн",
+      "image": "image/kapli.webp"    
+    },
+    {
+      "id": 4,
+      "name": "Лосьйон для чищення вух",
+      "shortname": "ear-cleaner",
+      "description": "Гігієнічний лосьйон для м'якого розчинення бруду у вухах.",
+      "price": "210 грн",
+      "image": "image/forear.webp"    
+    }  
+    ]
+}
