@@ -1,0 +1,45 @@
+{
+  "category": "Іграшки",
+  "items": [
+    {
+      "id": 1,
+      "name": "Іграшка KONG Classic",
+      "shortname": "kong-classic",
+      "description": "Міцна гумова іграшка, яку можна наповнити ласощами. Ідеально для жування.",
+      "price": "450 грн",
+      "image": "image/kong.jpeg"    
+    },
+    {
+      "id": 2,
+      "name": "Канат з двома вузлами",
+      "shortname": "rope-toy",
+      "description": "Бавовняний канат для перетягування та очищення зубів.",
+      "price": "150 грн",
+      "image": "image/kanat.jpg"    
+    },
+    {
+      "id": 3,
+      "name": "М'яч Trixie Denta Fun",
+      "shortname": "trixie-ball",
+      "description": "Гумовий м'яч з шипами, який масажує ясна під час гри.",
+      "price": "180 грн",
+      "image": "image/ball.webp"    
+    },
+    {
+      "id": 4,
+      "name": "Фрісбі Chuckit",
+      "shortname": "chuckit-frisbee",
+      "description": "Літаюча тарілка з м'якого матеріалу. Не травмує зуби собаки.",
+      "price": "320 грн",
+      "image": "image/chuckit.png"    
+    },
+    {
+      "id": 5,
+      "name": "М'яка іграшка Лисичка",
+      "shortname": "fox-plush",
+      "description": "Плюшева іграшка з пискавкою всередині для активних ігор вдома.",
+      "price": "250 грн",
+      "image": "image/fox.webp"    
+    }
+  ]
+}
